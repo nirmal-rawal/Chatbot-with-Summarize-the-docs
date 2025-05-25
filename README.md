@@ -27,6 +27,4 @@ An AI-powered assistant for document Q&A and appointment management, built with 
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   [git clone https://github.com/yourusername/professional-chatbot.git](https://github.com/nirmal-rawal/Chatbot-with-Summarize-the-docs.git)
-   cd professional-chatbot
+https://github.com/nirmal-rawal/Chatbot-with-Summarize-the-docs.git
