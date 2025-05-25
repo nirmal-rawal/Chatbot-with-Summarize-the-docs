@@ -1,6 +1,5 @@
 # Professional Chatbot System
-
-![Python]([https://img.shields.io/badge/python-3.9+-blue.svg](http://localhost:8501/))
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67D.svg)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E.svg?logo=huggingface)
@@ -29,5 +28,5 @@ An AI-powered assistant for document Q&A and appointment management, built with 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/professional-chatbot.git
+   [git clone https://github.com/yourusername/professional-chatbot.git](https://github.com/nirmal-rawal/Chatbot-with-Summarize-the-docs.git)
    cd professional-chatbot
