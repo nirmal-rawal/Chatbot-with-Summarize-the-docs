@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+langchain-huggingface
+langchain-community
+langgraph
+pydantic
+phonenumbers
+dateparser
+pyparsing==3.0.9
